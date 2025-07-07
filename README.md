@@ -48,4 +48,4 @@ https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challeng
 
 ## 📜 License
 
-MIT License © 2025 Vikitha Jayraj
+MIT License © 2025 Bakthula Lalith Prabhasith
